@@ -1,4 +1,4 @@
-package Dtos;
+package models;
 
 public class Todos {
 

@@ -1,4 +1,4 @@
-package Dtos;
+package models;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

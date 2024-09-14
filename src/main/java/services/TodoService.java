@@ -1,6 +1,6 @@
 package services;
 
-import Dtos.Todos;
+import models.Todos;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import config.Endpoints;
 import io.restassured.response.Response;

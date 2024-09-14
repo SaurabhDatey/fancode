@@ -1,6 +1,6 @@
 package services;
 
-import Dtos.User;
+import models.User;
 import io.restassured.response.Response;
 import java.util.List;
 import java.util.stream.Collectors;

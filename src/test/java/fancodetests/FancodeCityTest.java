@@ -1,6 +1,6 @@
 package fancodetests;
 
-import Dtos.User;
+import models.User;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import services.TodoService;
