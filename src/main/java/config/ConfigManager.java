@@ -9,7 +9,7 @@ public class ConfigManager {
 
     static {
         try{
-            FileInputStream input = new FileInputStream("src/main/resources/Application.properties");
+            FileInputStream input = new FileInputStream("src/main/resources/application.properties");
             properties.load(input);
         }catch (Exception e){
             e.printStackTrace();
